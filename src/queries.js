@@ -70,7 +70,6 @@ export const BLOGS_QUERY = `
           handle
           id
           title
-          url
         }
       }
     }
