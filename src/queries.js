@@ -48,7 +48,6 @@ export const ARTICLES_QUERY = `
           }
           tags
           title
-          url
         }
       }
     }
